@@ -1,0 +1,13 @@
+{
+    "name": "monomelodies/codein-doccomments",
+    "description": "Codein checks for proper use of doccomments",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {}
+}
